@@ -1,37 +1,56 @@
 # ☕ Amore Café
 
-### Good Food. Great Moments.
+<p align="center">
+  <strong>Good Food. Great Moments.</strong>
+</p>
 
-A premium, modern and fully responsive café website designed for **Amore Café**.
+<p align="center">
+  A premium, modern and fully responsive café website designed for Amore Café.
+</p>
 
-Built as a professional website demo by **BrosCode Tech Solutions**.
+<p align="center">
+  <a href="https://broscodetech.github.io/amore-cafe/">
+    <strong>🌐 Live Demo</strong>
+  </a>
+</p>
 
 ---
 
-## ✨ Features
+## ✨ Overview
+
+Amore Café is a premium café website demo created with a modern dark coffee-themed design and elegant gold accents.
+
+The website focuses on clean UI, responsive layouts, smooth navigation and a premium customer experience.
+
+---
+
+## 🚀 Features
 
 - 🏠 Premium Hero Section
 - ☕ Café Menu Showcase
 - 🍕 Food & Beverage Cards
 - 🖼️ Gallery Section
 - ⭐ Customer Reviews
-- 📍 Contact & Location Section
-- 📞 Call Us Button
+- 📍 Location & Contact Section
+- 📞 Call Us Integration
 - 💬 WhatsApp Integration
-- 🗺️ Find Us / Directions
-- 📱 Fully Responsive Design
-- 🍔 Mobile-Friendly Navigation
+- 🗺️ Get Directions
+- 📱 Responsive Mobile Navigation
+- 💻 Desktop & Mobile Support
 - ✨ Premium Dark & Gold UI
-- ⚡ Smooth Navigation Experience
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️ Tech Stack
 
-- HTML5
-- CSS3
-- JavaScript
-- Responsive Web Design
+| Technology | Usage |
+|------------|-------|
+| HTML5 | Website Structure |
+| CSS3 | Styling & Responsive Design |
+| JavaScript | Interactions & Navigation |
+| Git | Version Control |
+| GitHub | Repository & Deployment |
+| GitHub Pages | Website Hosting |
 
 ---
 
